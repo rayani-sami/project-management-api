@@ -25,12 +25,9 @@ Une application complète de gestion de projets avec tâches, développée avec 
 - Reactive Forms
 
 ##  Installation
+ npm i
+ npm run dev   
+ MONGODB_URI=mongodb://127.0.0.1:27017/projet_management
+ PORT=3000
 
-### Prérequis
-- Node.js (v22 )
-- MongoDB (v4.4 )
-- Angular CLI (`npm install -g @angular/cli`)
 
-1.
-git clone [url-du-repo]
-cd project-management-backend
