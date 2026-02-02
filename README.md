@@ -28,6 +28,6 @@ Une application complète de gestion de projets avec tâches, développée avec 
 - npm i
 - npm run dev   
 - MONGODB_URI=mongodb://127.0.0.1:27017/projet_management
- PORT=3000
+- PORT=3000
 
 
